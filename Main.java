@@ -25,7 +25,7 @@ case 3:
 System.out.println(" Kibe com queijo .");
 break;
 default:
-System.out.println("Opção invalida!");
+System.out.println("Opção invalida");
 break;
 }
 }
